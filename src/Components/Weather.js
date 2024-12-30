@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './weather.css'; // Import the CSS file
+import './weather.css'; 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import {
     faSun,
