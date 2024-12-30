@@ -29,7 +29,7 @@ function Weather() {
         Drizzle: faCloudRain
     };
 
-    const API_KEY = "03ed5f954bec74cad2adb85a71944271"; // Replace with your OpenWeatherMap API key
+    const API_KEY = "03ed5f954bec74cad2adb85a71944271";
 
     const handleClick = async (e) => {
         e.preventDefault();
